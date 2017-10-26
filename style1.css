@@ -1,0 +1,90 @@
+html {
+	background-image: url(seigaiha.png);
+}
+body {
+background-image: url(BA_new_icon.png);
+background-position: right top;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.header {
+font-size: 40px;
+text-align: center;
+font-family: "Helvetica", Arial, sans-serif;
+color: #333;
+
+}
+.smalheader  {
+	color: #ccc;
+font-size: 0.5em;
+font-family: cursive;
+}
+.added{
+font-size: 16px;
+color: #888;
+font-family: sans-serif;
+font-weight: bolder;
+}
+#zmist {
+font-family: "Helvetica", Arial, sans-serif;
+	text-align: center;
+
+}
+:link {
+	text-decoration: none;
+}
+.zmist {
+	list-style-type: none;
+	font-size: 30px;
+	text-transform: capitalize;
+}
+.zmist:hover {
+
+	background-color: #eee;
+list-style-image: url(short_arrow_right-512.png)
+
+}
+.zmist:active {
+text-decoration: overline;
+
+}
+.zmistp:hover {
+color: #333;
+}
+:visited {
+	color: #a9a;
+}
+.par {
+
+	font-size: 18px;
+	color: #222;
+	font-weight: bolder;
+	text-align: justify;
+	text-indent: 40px;
+
+
+}
+.par:first-line{
+font-size: 1.5em;
+color: #a83;
+
+}
+.par:first-letter {
+	color: #ea3;
+	font-size: 2em;
+}
+
+.headerp {
+	font-size: 35px;
+	text-align: justify;
+	font-family: cursive;
+}
+.tr:hover {
+
+background-color:#ccc;
+}
+#summary {
+	background-color: #a84;
+	color: white;
+
+}
